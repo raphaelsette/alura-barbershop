@@ -80,7 +80,7 @@
     margin-top: 20px;
  }
  form {
-    margin: 40px 0;
+    margin: 40px 40px;
 }
 form label, form legend {
     display: block;
@@ -113,7 +113,7 @@ form label, form legend {
     transform: scale(1.2) rotate(2deg);
 }
 table {
-    margin: 20px 0 40px;
+    margin: 40px 40px;
 }
 thead {
     background: #555555;
