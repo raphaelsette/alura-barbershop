@@ -1,25 +1,25 @@
 
 # Oracle Next Education + Alura
 
-Desenvolvimento de um site estático para o curso de iniciante em HTML5 e CSS3.
+Development of a static website for the beginner course in HTML5 and CSS3.
 
-O curso abrange os seguintes tópicos:
+The course covers the following topics:
 
-- Listas e Divisões
-- Navegação
-- Posicionamento de elementos
-- Pseudo-classes CSS
-- Formulários
-- Semântica
-- Estrutura de tabelas
-- Design responsivo
+- Lists and Divisions
+- Navigation
+- Element positioning
+- CSS Pseudo-classes
+- Forms
+- Semantics
+- Table Structure
+- Responsive Design
 
-## Demonstração
+## Preview
 
-https://raphaelsette.github.io/barbearia-alura/
+https://raphaelsette.github.io/alura-barbershop/
 
 
-## Referências
+## References
 
  - [Crie uma página da Web](https://www.alura.com.br/curso-online-html5-css3-primeiros-passos)
  - [Posicionamento, listas e navegação](https://www.alura.com.br/curso-online-html5-css3-posicionamento-listas-navegacao)
@@ -27,6 +27,6 @@ https://raphaelsette.github.io/barbearia-alura/
  - [Avançando no CSS](https://www.alura.com.br/curso-online-html5-css3-avancando-css)
  - [Unidades no CSS](https://www.alura.com.br/artigos/guia-de-unidades-no-css)
  
-## Autores
+## Authors
 
 - [@raphaelsette](https://www.github.com/raphaelsette)
