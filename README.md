@@ -1,4 +1,8 @@
-![Status](https://img.shields.io/badge/status-ativo-brightgreen)
+> [!CAUTION]
+> **Aviso:** Este projeto é antigo e foi preservado apenas para fins de portfólio. Não há planos para correções de bugs ou novas funcionalidades.
+
+
+![Status](https://img.shields.io/badge/status-arquivado-red)
 
 # 💈Barbearia Alura
 
