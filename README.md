@@ -17,12 +17,6 @@ O site é composto por três páginas principais:
 - **Produtos:** Vitrine de serviços oferecidos (Cabelo, Barba e Combo) com preços e descrições.
 - **Contato:** Formulário completo para agendamento e informações, incluindo uma tabela com os horários de funcionamento.
 
-## 💻 Como Visualizar
-
-O projeto pode ser acessado diretamente através do GitHub Pages: 👉 https://raphaelsette.github.io/alura-barbershop/
-
-<img src="./img/screenshots/print_1.png" width="800px">
-
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5:** Estruturação semântica do conteúdo.
@@ -32,3 +26,9 @@ O projeto pode ser acessado diretamente através do GitHub Pages: 👉 https://r
   - **Responsividade** via Media Queries para adaptação em dispositivos móveis.
   - Transições e transformações para efeitos visuais.
 - **Google Fonts:** Integração da fonte 'Montserrat'.
+
+## 💻 Como Visualizar
+
+O projeto pode ser acessado diretamente através do GitHub Pages: 👉 https://raphaelsette.github.io/alura-barbershop/
+
+<img src="./img/screenshots/print_1.png" width="800px">
