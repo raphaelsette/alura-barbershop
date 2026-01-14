@@ -17,6 +17,8 @@ O site é composto por três páginas principais:
 
 O projeto pode ser acessado diretamente através do GitHub Pages: 👉 https://raphaelsette.github.io/alura-barbershop/
 
+<img src="./img/screenshots/print_1.png" width="800px">
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5:** Estruturação semântica do conteúdo.
